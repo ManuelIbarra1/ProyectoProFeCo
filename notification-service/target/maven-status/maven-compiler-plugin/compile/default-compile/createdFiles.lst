@@ -1,0 +1,6 @@
+com\profeco\notification\model\Notificacion.class
+com\profeco\notification\NotificationApplication.class
+com\profeco\notification\service\NotificationService.class
+com\profeco\notification\service\RabbitMQConsumer.class
+com\profeco\notification\config\RabbitMQConfig.class
+com\profeco\notification\controller\NotificationController.class

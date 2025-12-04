@@ -1,0 +1,9 @@
+com\profeco\quejas\service\AuthService.class
+com\profeco\quejas\repository\QuejaRepository.class
+com\profeco\quejas\controller\QuejaController.class
+com\profeco\quejas\dto\QuejaRequest.class
+com\profeco\quejas\QuejasApplication.class
+com\profeco\quejas\model\Queja.class
+com\profeco\quejas\config\RabbitConfig.class
+com\profeco\quejas\model\Notificacion.class
+com\profeco\quejas\service\QuejaService.class

@@ -1,0 +1,10 @@
+com\profeco\auth\model\Usuario.class
+com\profeco\auth\security\JwtUtil.class
+com\profeco\auth\controller\AuthController$RegistroRequest.class
+com\profeco\auth\config\DataInitializer.class
+com\profeco\auth\security\PasswordUtil.class
+com\profeco\auth\controller\AuthController.class
+com\profeco\auth\AuthApplication.class
+com\profeco\auth\service\AuthService.class
+com\profeco\auth\controller\AuthController$LoginRequest.class
+com\profeco\auth\repository\UsuarioRepository.class

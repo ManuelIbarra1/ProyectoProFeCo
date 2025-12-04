@@ -1,0 +1,4 @@
+com\profeco\gateway\security\JwtAuthenticationFilter.class
+com\profeco\gateway\security\JwtAuthenticationFilter$Config.class
+com\profeco\gateway\controller\FallbackController.class
+com\profeco\gateway\GatewayApplication.class

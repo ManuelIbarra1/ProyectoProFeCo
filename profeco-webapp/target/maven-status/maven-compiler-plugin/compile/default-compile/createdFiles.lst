@@ -1,0 +1,6 @@
+com\profeco\web\controller\AuthServlet.class
+com\profeco\web\filter\AuthFilter.class
+com\profeco\web\controller\ApiServlet.class
+com\profeco\web\service\QuejasServlet.class
+com\profeco\web\controller\LoginServlet.class
+com\profeco\web\service\RestClient.class
