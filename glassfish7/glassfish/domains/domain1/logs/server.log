@@ -1,0 +1,1216 @@
+[2025-12-03T03:47:07.376179-07:00] [GF 7.0.24] [INFO] [] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764758827290] [levelValue: 800] [[
+  Using property file: D:\Servers\glassfish-7.0.25\glassfish7\glassfish\domains\domain1\config\logging.properties]]
+
+[2025-12-03T03:47:07.433245-07:00] [GF 7.0.24] [INFO] [NCLS-LOGGING-00009] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764758827290] [levelValue: 800] [[
+  Running GlassFish Version: Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2)]]
+
+[2025-12-03T03:47:07.634292-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.ha.store.spi.BackingStoreFactoryRegistry] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764758827290] [levelValue: 800] [[
+  Registered org.glassfish.ha.store.adapter.cache.ShoalBackingStoreProxy for persistence-type = replicated in BackingStoreFactoryRegistry]]
+
+[2025-12-03T03:47:07.702657-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-03T03:47:07.705044-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-03T03:47:07.720128-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.]]
+
+[2025-12-03T03:47:07.781946-07:00] [GF 7.0.24] [INFO] [SEC-SVCS-00100] [jakarta.enterprise.security.services] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Authorization Service has successfully initialized.]]
+
+[2025-12-03T03:47:07.958185-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 74 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T03:47:07.993787-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T03:47:08.005977-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 5 ms - bound to [/0.0.0.0:4848]]]
+
+[2025-12-03T03:47:08.066690-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764758827287] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:3700]]]
+
+[2025-12-03T03:47:08.219352-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00017] [jakarta.enterprise.system.core] [tid: _ThreadID=3 _ThreadName=main] [levelValue: 800] [[
+  Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2) startup time: Felix (15,309 ms), startup services (942 ms), total (16,251 ms)]]
+
+[2025-12-03T03:47:08.508149-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764758827297] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:7676]]]
+
+[2025-12-03T03:47:11.535667-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=107 _ThreadName=pool-14-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 2 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T03:47:11.545096-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=107 _ThreadName=pool-14-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T03:47:12.097738-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=106 _ThreadName=pool-13-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 2 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T03:47:12.173911-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=99 _ThreadName=pool-12-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T03:47:13.003140-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-03T03:47:13.006584-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-03T03:47:13.007586-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Created HTTP listener admin-listener on host/port 0.0.0.0:4848]]
+
+[2025-12-03T03:47:13.024722-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Created virtual server server]]
+
+[2025-12-03T03:47:13.026730-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Created virtual server __asadmin]]
+
+[2025-12-03T03:47:13.186941-07:00] [GF 7.0.24] [INFO] [AS-WEB-CORE-00306] [jakarta.enterprise.web.core] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Setting JAAS app name glassfish-web]]
+
+[2025-12-03T03:47:13.186941-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00201] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Virtual server server loaded default web module ]]
+
+[2025-12-03T03:47:13.424470-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00005] [jakarta.enterprise.system.jmx] [tid: _ThreadID=104 _ThreadName=Thread-13] [levelValue: 800] [[
+  JMXStartupService has started JMXConnector on JMXService URL service:jmx:rmi://LAPTOP-CLGDCK0A:8686/jndi/rmi://LAPTOP-CLGDCK0A:8686/jmxrmi]]
+
+[2025-12-03T03:47:13.671343-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01002] [jakarta.enterprise.system.core.security] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Java security manager is disabled.]]
+
+[2025-12-03T03:47:13.671343-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01010] [jakarta.enterprise.system.core.security] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Entering Security Startup Service.]]
+
+[2025-12-03T03:47:13.675345-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01143] [jakarta.enterprise.system.core.security] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Loading policy provider org.glassfish.exousia.modules.locked.SimplePolicyProvider.]]
+
+[2025-12-03T03:47:13.709562-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01011] [jakarta.enterprise.system.core.security] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Security Service(s) started successfully.]]
+
+[2025-12-03T03:47:13.993585-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@64b98187[name=__admingui], urls=[
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/classes/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-commandrecorder-plugin-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/__admingui/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-suntheme-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/dojo-ajax-nodemo-1.12.4.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/prototype-1.7.3.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/commons-io-2.18.0.jar
+][delegate=true, context=__admingui, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=37, pathTimestamps.size=2, resourceEntryCache.size=0]]]
+
+[2025-12-03T03:47:14.025734-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Version] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  WELD-000900: 5.1.5 (Final)]]
+
+[2025-12-03T03:47:14.214753-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=__admingui]]]
+
+[2025-12-03T03:47:14.643425-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T03:47:14.644431-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T03:47:14.645428-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T03:47:15.870302-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '']]
+
+[2025-12-03T03:47:15.938110-07:00] [GF 7.0.24] [INFO] [faces.config.listener.version] [jakarta.enterprise.resource.webcontainer.faces.config] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Inicializando Mojarra 4.0.11 para el contexto '']]
+
+[2025-12-03T03:47:16.873273-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Loading application [__admingui] at [/]]]
+
+[2025-12-03T03:47:16.874267-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=146 _ThreadName=Thread-27] [levelValue: 800] [[
+  Loading application __admingui done in 5,131 ms]]
+
+[2025-12-03T03:47:19.878966-07:00] [GF 7.0.24] [WARNING] [] [com.sun.web.security.RealmAdapter] [tid: _ThreadID=84 _ThreadName=admin-listener(2)] [levelValue: 900] [[
+  Context path from ServletContext:  differs from path from bundle: /]]
+
+[2025-12-03T03:47:21.210197-07:00] [GF 7.0.24] [SEVERE] [] [jakarta.enterprise.admin.rest] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 1000] [[
+  java.lang.ClassNotFoundException: org.glassfish.admin.rest.resources.generatedASM.DomainResource not found by org.glassfish.main.admin.rest-service [260]
+	at org.apache.felix.framework.BundleWiringImpl.findClassOrResourceByDelegation(BundleWiringImpl.java:1591)
+	at org.apache.felix.framework.BundleWiringImpl.access$300(BundleWiringImpl.java:79)
+	at org.apache.felix.framework.BundleWiringImpl$BundleClassLoader.loadClass(BundleWiringImpl.java:1976)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:463)
+	at java.base/java.lang.Class.forName(Class.java:454)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceClasses(RestManagementResourceProvider.java:86)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:264)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-03T03:47:21.247812-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00003] [jakarta.enterprise.admin.rest] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  An error occurred while processing the request. Please see the server logs for details.
+java.lang.IllegalArgumentException: Registered component class cannot be null.
+	at org.glassfish.jersey.model.internal.CommonConfig.checkComponentClassNotNull(CommonConfig.java:574)
+	at org.glassfish.jersey.model.internal.CommonConfig.register(CommonConfig.java:412)
+	at org.glassfish.jersey.server.ResourceConfig.register(ResourceConfig.java:405)
+	at org.glassfish.jersey.server.ResourceConfig.registerClasses(ResourceConfig.java:481)
+	at org.glassfish.jersey.server.ResourceConfig.<init>(ResourceConfig.java:347)
+	at org.glassfish.admin.rest.adapter.AbstractRestResourceProvider.getResourceConfig(AbstractRestResourceProvider.java:79)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceConfig(RestManagementResourceProvider.java:70)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:274)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-03T03:47:22.524046-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00001] [jakarta.enterprise.admin.rest] [tid: _ThreadID=86 _ThreadName=admin-listener(4)] [levelValue: 800] [[
+  Listening to REST requests at context: /management/domain.]]
+
+[2025-12-03T04:20:21.002203-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@479495e2[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp/
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=3, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-03T04:20:21.118229-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T04:20:21.153966-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T04:20:22.022216-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-03T04:20:22.036849-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-03T04:20:22.087456-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.system.core] [tid: _ThreadID=85 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  profeco-webapp was successfully deployed in 2,527 milliseconds.]]
+
+[2025-12-03T04:21:15.111055-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00092] [jakarta.enterprise.system.core] [tid: _ThreadID=289 _ThreadName=Thread-48] [levelValue: 800] [[
+  Server shutdown initiated]]
+
+[2025-12-03T04:21:15.120055-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=289 _ThreadName=Thread-48] [levelValue: 800] [[
+  FileMonitoring shutdown]]
+
+[2025-12-03T04:21:15.129053-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00002] [jakarta.enterprise.system.jmx] [tid: _ThreadID=289 _ThreadName=Thread-48] [levelValue: 800] [[
+  JMXStartupService: Stopped JMXConnectorServer: null]]
+
+[2025-12-03T04:21:15.129053-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00001] [jakarta.enterprise.system.jmx] [tid: _ThreadID=289 _ThreadName=Thread-48] [levelValue: 800] [[
+  JMXStartupService and JMXConnectors have been shut down.]]
+
+[2025-12-03T04:21:15.167545-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=293 _ThreadName=RunLevelControllerThread-1764760875133] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T04:21:15.174069-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=293 _ThreadName=RunLevelControllerThread-1764760875133] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@120835d5[name=/profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/profeco-webapp/
+][delegate=true, context=/profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=18, pathTimestamps.size=15, resourceEntryCache.size=114]]]
+
+[2025-12-03T04:21:15.250695-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=293 _ThreadName=RunLevelControllerThread-1764760875133] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=__admingui]]]
+
+[2025-12-03T04:21:15.255294-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=293 _ThreadName=RunLevelControllerThread-1764760875133] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@5b038d56[name=], urls=[
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/classes/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-commandrecorder-plugin-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/__admingui/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-suntheme-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/dojo-ajax-nodemo-1.12.4.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/prototype-1.7.3.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/commons-io-2.18.0.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/__admingui/
+][delegate=true, context=, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=648, pathTimestamps.size=7, resourceEntryCache.size=13]]]
+
+[2025-12-03T04:21:15.282592-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=294 _ThreadName=RunLevelControllerThread-1764760875133] [levelValue: 800] [[
+  JdbcRuntimeExtension,  getAllSystemRAResourcesAndPools = [GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource(pool-name=__TimerPool,object-type=system-all,jndi-name=jdbc/__TimerPool), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource(pool-name=DerbyPool,object-type=system-all-req,jndi-name=jdbc/__default), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool(datasource-classname=org.apache.derby.jdbc.EmbeddedXADataSource,name=__TimerPool,res-type=javax.sql.XADataSource), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool(is-isolation-level-guaranteed=false,datasource-classname=org.apache.derby.jdbc.ClientDataSource,name=DerbyPool,res-type=javax.sql.DataSource), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool(pool-resize-quantity=2,match-connections=false,connection-leak-reclaim=false,ping=false,connection-creation-retry-attempts=0,associate-with-thread=false,connection-validation-method=table,res-type=javax.sql.DataSource,statement-cache-size=0,max-wait-time-in-millis=60000,fail-all-connections=false,lazy-connection-association=false,allow-non-component-callers=false,max-connection-usage-count=0,datasource-classname=org.apache.derby.jdbc.ClientDataSource,wrap-jdbc-objects=true,is-connection-validation-required=false,is-isolation-level-guaranteed=true,validate-atmost-once-period-in-seconds=0,lazy-connection-enlistment=false,connection-creation-retry-interval-in-seconds=10,max-pool-size=32,connection-leak-timeout-in-seconds=0,pooling=true,non-transactional-connections=false,steady-pool-size=8,idle-timeout-in-seconds=300,name=SamplePool,statement-timeout-in-seconds=-1), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource(pool-name=SamplePool,enabled=true,jndi-name=jdbc/sample)]]]
+
+[2025-12-03T04:21:15.301021-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00013] [jakarta.enterprise.system.core] [tid: _ThreadID=289 _ThreadName=Thread-48] [levelValue: 800] [[
+  Shutdown procedure finished]]
+
+[2025-12-03T04:21:15.302019-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=28 _ThreadName=GlassFish Shutdown Hook] [levelValue: 800] [[
+  Completed shutdown of GlassFish runtime]]
+
+[2025-12-03T11:52:55.358125-07:00] [GF 7.0.24] [INFO] [] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764787975240] [levelValue: 800] [[
+  Using property file: D:\Servers\glassfish-7.0.25\glassfish7\glassfish\domains\domain1\config\logging.properties]]
+
+[2025-12-03T11:52:55.418531-07:00] [GF 7.0.24] [INFO] [NCLS-LOGGING-00009] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764787975240] [levelValue: 800] [[
+  Running GlassFish Version: Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2)]]
+
+[2025-12-03T11:52:55.648576-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.ha.store.spi.BackingStoreFactoryRegistry] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764787975237] [levelValue: 800] [[
+  Registered org.glassfish.ha.store.adapter.cache.ShoalBackingStoreProxy for persistence-type = replicated in BackingStoreFactoryRegistry]]
+
+[2025-12-03T11:52:55.716245-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764787975240] [levelValue: 800] [[
+  Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-03T11:52:55.719255-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764787975240] [levelValue: 800] [[
+  Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-03T11:52:55.731248-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764787975240] [levelValue: 800] [[
+  Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.]]
+
+[2025-12-03T11:52:55.789798-07:00] [GF 7.0.24] [INFO] [SEC-SVCS-00100] [jakarta.enterprise.security.services] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764787975240] [levelValue: 800] [[
+  Authorization Service has successfully initialized.]]
+
+[2025-12-03T11:52:56.028900-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 81 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T11:52:56.074932-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T11:52:56.092454-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 6 ms - bound to [/0.0.0.0:4848]]]
+
+[2025-12-03T11:52:56.150449-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764787975237] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 5 ms - bound to [/0.0.0.0:3700]]]
+
+[2025-12-03T11:52:57.460488-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01002] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Java security manager is disabled.]]
+
+[2025-12-03T11:52:57.461489-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01010] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Entering Security Startup Service.]]
+
+[2025-12-03T11:52:57.464491-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01143] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Loading policy provider org.glassfish.exousia.modules.locked.SimplePolicyProvider.]]
+
+[2025-12-03T11:52:57.489015-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01011] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Security Service(s) started successfully.]]
+
+[2025-12-03T11:52:57.665738-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-03T11:52:57.669747-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-03T11:52:57.671748-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Created HTTP listener admin-listener on host/port 0.0.0.0:4848]]
+
+[2025-12-03T11:52:57.697285-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Created virtual server server]]
+
+[2025-12-03T11:52:57.699287-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Created virtual server __asadmin]]
+
+[2025-12-03T11:52:57.915179-07:00] [GF 7.0.24] [INFO] [AS-WEB-CORE-00306] [jakarta.enterprise.web.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Setting JAAS app name glassfish-web]]
+
+[2025-12-03T11:52:57.916182-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00201] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Virtual server server loaded default web module ]]
+
+[2025-12-03T11:52:58.613315-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@78011a5c[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp//
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=45, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-03T11:52:58.658844-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Version] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  WELD-000900: 5.1.5 (Final)]]
+
+[2025-12-03T11:52:58.834241-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T11:52:59.378928-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T11:53:00.134494-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-03T11:53:00.740773-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-03T11:53:00.742772-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764787975250] [levelValue: 800] [[
+  Loading application profeco-webapp done in 4,956 ms]]
+
+[2025-12-03T11:53:00.742772-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00017] [jakarta.enterprise.system.core] [tid: _ThreadID=3 _ThreadName=main] [levelValue: 800] [[
+  Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2) startup time: Felix (12,658 ms), startup services (5,514 ms), total (18,172 ms)]]
+
+[2025-12-03T11:53:00.847854-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764787975237] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:7676]]]
+
+[2025-12-03T11:53:01.165928-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=113 _ThreadName=pool-9-thread-1] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-03T11:53:01.172945-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=113 _ThreadName=pool-9-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T11:53:01.216457-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=117 _ThreadName=pool-11-thread-1] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-03T11:53:01.230456-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=117 _ThreadName=pool-11-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 10 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T11:53:01.472624-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@2f37f91a[name=__admingui], urls=[
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/classes/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-commandrecorder-plugin-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/__admingui//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-suntheme-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/dojo-ajax-nodemo-1.12.4.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/prototype-1.7.3.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/commons-io-2.18.0.jar
+][delegate=true, context=__admingui, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=0, pathTimestamps.size=2, resourceEntryCache.size=0]]]
+
+[2025-12-03T11:53:01.569506-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=__admingui]]]
+
+[2025-12-03T11:53:01.607038-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T11:53:01.609038-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T11:53:01.617039-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T11:53:02.216518-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '']]
+
+[2025-12-03T11:53:02.290063-07:00] [GF 7.0.24] [INFO] [faces.config.listener.version] [jakarta.enterprise.resource.webcontainer.faces.config] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Inicializando Mojarra 4.0.11 para el contexto '']]
+
+[2025-12-03T11:53:03.070916-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Loading application [__admingui] at [/]]]
+
+[2025-12-03T11:53:03.071924-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Loading application __admingui done in 2,327 ms]]
+
+[2025-12-03T11:53:06.020933-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00005] [jakarta.enterprise.system.jmx] [tid: _ThreadID=156 _ThreadName=Thread-26] [levelValue: 800] [[
+  JMXStartupService has started JMXConnector on JMXService URL service:jmx:rmi://LAPTOP-CLGDCK0A:8686/jndi/rmi://LAPTOP-CLGDCK0A:8686/jmxrmi]]
+
+[2025-12-03T11:53:08.979995-07:00] [GF 7.0.24] [WARNING] [] [com.sun.web.security.RealmAdapter] [tid: _ThreadID=85 _ThreadName=admin-listener(2)] [levelValue: 900] [[
+  Context path from ServletContext:  differs from path from bundle: /]]
+
+[2025-12-03T11:53:10.556408-07:00] [GF 7.0.24] [SEVERE] [] [jakarta.enterprise.admin.rest] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 1000] [[
+  java.lang.ClassNotFoundException: org.glassfish.admin.rest.resources.generatedASM.DomainResource not found by org.glassfish.main.admin.rest-service [260]
+	at org.apache.felix.framework.BundleWiringImpl.findClassOrResourceByDelegation(BundleWiringImpl.java:1591)
+	at org.apache.felix.framework.BundleWiringImpl.access$300(BundleWiringImpl.java:79)
+	at org.apache.felix.framework.BundleWiringImpl$BundleClassLoader.loadClass(BundleWiringImpl.java:1976)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:463)
+	at java.base/java.lang.Class.forName(Class.java:454)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceClasses(RestManagementResourceProvider.java:86)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:264)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-03T11:53:10.616954-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00003] [jakarta.enterprise.admin.rest] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  An error occurred while processing the request. Please see the server logs for details.
+java.lang.IllegalArgumentException: Registered component class cannot be null.
+	at org.glassfish.jersey.model.internal.CommonConfig.checkComponentClassNotNull(CommonConfig.java:574)
+	at org.glassfish.jersey.model.internal.CommonConfig.register(CommonConfig.java:412)
+	at org.glassfish.jersey.server.ResourceConfig.register(ResourceConfig.java:405)
+	at org.glassfish.jersey.server.ResourceConfig.registerClasses(ResourceConfig.java:481)
+	at org.glassfish.jersey.server.ResourceConfig.<init>(ResourceConfig.java:347)
+	at org.glassfish.admin.rest.adapter.AbstractRestResourceProvider.getResourceConfig(AbstractRestResourceProvider.java:79)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceConfig(RestManagementResourceProvider.java:70)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:274)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-03T11:53:12.081226-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00001] [jakarta.enterprise.admin.rest] [tid: _ThreadID=87 _ThreadName=admin-listener(4)] [levelValue: 800] [[
+  Listening to REST requests at context: /management/domain.]]
+
+[2025-12-03T12:10:10.631887-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=86 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T12:10:10.674644-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=86 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@cc85d64[name=/profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/profeco-webapp/
+][delegate=true, context=/profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=33, pathTimestamps.size=15, resourceEntryCache.size=114]]]
+
+[2025-12-03T12:10:12.141272-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@1a0b810c[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp/
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=3, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-03T12:10:12.248483-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T12:10:12.272511-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T12:10:12.500496-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-03T12:10:12.987819-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-03T12:10:13.021918-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.system.core] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 800] [[
+  profeco-webapp was successfully deployed in 2,170 milliseconds.]]
+
+[2025-12-03T19:05:29.478582-07:00] [GF 7.0.24] [INFO] [] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Using property file: D:\Servers\glassfish-7.0.25\glassfish7\glassfish\domains\domain1\config\logging.properties]]
+
+[2025-12-03T19:05:29.518238-07:00] [GF 7.0.24] [INFO] [NCLS-LOGGING-00009] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Running GlassFish Version: Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2)]]
+
+[2025-12-03T19:05:29.677303-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.ha.store.spi.BackingStoreFactoryRegistry] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764813929408] [levelValue: 800] [[
+  Registered org.glassfish.ha.store.adapter.cache.ShoalBackingStoreProxy for persistence-type = replicated in BackingStoreFactoryRegistry]]
+
+[2025-12-03T19:05:29.724493-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-03T19:05:29.726829-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-03T19:05:29.738273-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.]]
+
+[2025-12-03T19:05:29.779839-07:00] [GF 7.0.24] [INFO] [SEC-SVCS-00100] [jakarta.enterprise.security.services] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Authorization Service has successfully initialized.]]
+
+[2025-12-03T19:05:29.948437-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 67 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T19:05:29.976325-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T19:05:29.988106-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764813929415] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:4848]]]
+
+[2025-12-03T19:05:30.026200-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764813929408] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:3700]]]
+
+[2025-12-03T19:05:31.381661-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01002] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Java security manager is disabled.]]
+
+[2025-12-03T19:05:31.382662-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01010] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Entering Security Startup Service.]]
+
+[2025-12-03T19:05:31.388809-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01143] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Loading policy provider org.glassfish.exousia.modules.locked.SimplePolicyProvider.]]
+
+[2025-12-03T19:05:31.444309-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01011] [jakarta.enterprise.system.core.security] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Security Service(s) started successfully.]]
+
+[2025-12-03T19:05:31.672133-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-03T19:05:31.677624-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-03T19:05:31.680725-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Created HTTP listener admin-listener on host/port 0.0.0.0:4848]]
+
+[2025-12-03T19:05:31.721185-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Created virtual server server]]
+
+[2025-12-03T19:05:31.725602-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Created virtual server __asadmin]]
+
+[2025-12-03T19:05:32.001373-07:00] [GF 7.0.24] [INFO] [AS-WEB-CORE-00306] [jakarta.enterprise.web.core] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Setting JAAS app name glassfish-web]]
+
+[2025-12-03T19:05:32.002374-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00201] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Virtual server server loaded default web module ]]
+
+[2025-12-03T19:05:32.737917-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@48b6497c[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp//
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=45, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-03T19:05:32.781904-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Version] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  WELD-000900: 5.1.5 (Final)]]
+
+[2025-12-03T19:05:32.964935-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T19:05:33.384867-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T19:05:34.813850-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-03T19:05:34.829850-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-03T19:05:34.831853-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764813929410] [levelValue: 800] [[
+  Loading application profeco-webapp done in 5,052 ms]]
+
+[2025-12-03T19:05:34.832951-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00017] [jakarta.enterprise.system.core] [tid: _ThreadID=3 _ThreadName=main] [levelValue: 800] [[
+  Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2) startup time: Felix (12,309 ms), startup services (5,431 ms), total (17,740 ms)]]
+
+[2025-12-03T19:05:34.932850-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764813929408] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:7676]]]
+
+[2025-12-03T19:05:35.227103-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=129 _ThreadName=pool-8-thread-1] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-03T19:05:35.234102-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=129 _ThreadName=pool-8-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-03T19:05:35.280552-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=130 _ThreadName=pool-7-thread-1] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-03T19:05:35.288722-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=130 _ThreadName=pool-7-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-03T19:05:35.496438-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@37c945ad[name=__admingui], urls=[
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/classes/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-commandrecorder-plugin-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/__admingui//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-suntheme-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/dojo-ajax-nodemo-1.12.4.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/prototype-1.7.3.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/commons-io-2.18.0.jar
+][delegate=true, context=__admingui, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=0, pathTimestamps.size=2, resourceEntryCache.size=0]]]
+
+[2025-12-03T19:05:35.589889-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=__admingui]]]
+
+[2025-12-03T19:05:35.635367-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T19:05:35.647001-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T19:05:35.648998-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T19:05:36.421092-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '']]
+
+[2025-12-03T19:05:36.466122-07:00] [GF 7.0.24] [INFO] [faces.config.listener.version] [jakarta.enterprise.resource.webcontainer.faces.config] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Inicializando Mojarra 4.0.11 para el contexto '']]
+
+[2025-12-03T19:05:37.154858-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Loading application [__admingui] at [/]]]
+
+[2025-12-03T19:05:37.155858-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=150 _ThreadName=Thread-21] [levelValue: 800] [[
+  Loading application __admingui done in 2,319 ms]]
+
+[2025-12-03T19:05:40.021786-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00005] [jakarta.enterprise.system.jmx] [tid: _ThreadID=156 _ThreadName=Thread-26] [levelValue: 800] [[
+  JMXStartupService has started JMXConnector on JMXService URL service:jmx:rmi://LAPTOP-CLGDCK0A:8686/jndi/rmi://LAPTOP-CLGDCK0A:8686/jmxrmi]]
+
+[2025-12-03T19:05:43.066713-07:00] [GF 7.0.24] [WARNING] [] [com.sun.web.security.RealmAdapter] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 900] [[
+  Context path from ServletContext:  differs from path from bundle: /]]
+
+[2025-12-03T19:05:44.398588-07:00] [GF 7.0.24] [SEVERE] [] [jakarta.enterprise.admin.rest] [tid: _ThreadID=87 _ThreadName=admin-listener(4)] [levelValue: 1000] [[
+  java.lang.ClassNotFoundException: org.glassfish.admin.rest.resources.generatedASM.DomainResource not found by org.glassfish.main.admin.rest-service [260]
+	at org.apache.felix.framework.BundleWiringImpl.findClassOrResourceByDelegation(BundleWiringImpl.java:1591)
+	at org.apache.felix.framework.BundleWiringImpl.access$300(BundleWiringImpl.java:79)
+	at org.apache.felix.framework.BundleWiringImpl$BundleClassLoader.loadClass(BundleWiringImpl.java:1976)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:463)
+	at java.base/java.lang.Class.forName(Class.java:454)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceClasses(RestManagementResourceProvider.java:86)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:264)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-03T19:05:44.434585-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00003] [jakarta.enterprise.admin.rest] [tid: _ThreadID=87 _ThreadName=admin-listener(4)] [levelValue: 800] [[
+  An error occurred while processing the request. Please see the server logs for details.
+java.lang.IllegalArgumentException: Registered component class cannot be null.
+	at org.glassfish.jersey.model.internal.CommonConfig.checkComponentClassNotNull(CommonConfig.java:574)
+	at org.glassfish.jersey.model.internal.CommonConfig.register(CommonConfig.java:412)
+	at org.glassfish.jersey.server.ResourceConfig.register(ResourceConfig.java:405)
+	at org.glassfish.jersey.server.ResourceConfig.registerClasses(ResourceConfig.java:481)
+	at org.glassfish.jersey.server.ResourceConfig.<init>(ResourceConfig.java:347)
+	at org.glassfish.admin.rest.adapter.AbstractRestResourceProvider.getResourceConfig(AbstractRestResourceProvider.java:79)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceConfig(RestManagementResourceProvider.java:70)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:274)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-03T19:05:45.539633-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00001] [jakarta.enterprise.admin.rest] [tid: _ThreadID=85 _ThreadName=admin-listener(2)] [levelValue: 800] [[
+  Listening to REST requests at context: /management/domain.]]
+
+[2025-12-03T19:06:46.184018-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=87 _ThreadName=admin-listener(4)] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T19:06:46.213251-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=87 _ThreadName=admin-listener(4)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@3ebc0298[name=/profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/profeco-webapp/
+][delegate=true, context=/profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=33, pathTimestamps.size=15, resourceEntryCache.size=114]]]
+
+[2025-12-03T19:06:47.525012-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@6dcb75e9[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp/
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=3, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-03T19:06:47.645391-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T19:06:47.676514-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-03T19:06:48.410538-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-03T19:06:48.417699-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-03T19:06:48.468434-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.system.core] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  profeco-webapp was successfully deployed in 2,086 milliseconds.]]
+
+[2025-12-03T19:07:28.029711-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00092] [jakarta.enterprise.system.core] [tid: _ThreadID=281 _ThreadName=Thread-41] [levelValue: 800] [[
+  Server shutdown initiated]]
+
+[2025-12-03T19:07:28.058364-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=281 _ThreadName=Thread-41] [levelValue: 800] [[
+  FileMonitoring shutdown]]
+
+[2025-12-03T19:07:28.085186-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00002] [jakarta.enterprise.system.jmx] [tid: _ThreadID=281 _ThreadName=Thread-41] [levelValue: 800] [[
+  JMXStartupService: Stopped JMXConnectorServer: null]]
+
+[2025-12-03T19:07:28.086409-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00001] [jakarta.enterprise.system.jmx] [tid: _ThreadID=281 _ThreadName=Thread-41] [levelValue: 800] [[
+  JMXStartupService and JMXConnectors have been shut down.]]
+
+[2025-12-03T19:07:28.138997-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-03T19:07:28.149768-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@309f6903[name=/profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/profeco-webapp/
+][delegate=true, context=/profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=18, pathTimestamps.size=15, resourceEntryCache.size=114]]]
+
+[2025-12-03T19:07:28.216497-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=__admingui]]]
+
+[2025-12-03T19:07:28.226784-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@44ef9134[name=], urls=[
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/classes/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-commandrecorder-plugin-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/__admingui//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-suntheme-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/dojo-ajax-nodemo-1.12.4.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/prototype-1.7.3.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/commons-io-2.18.0.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/__admingui/
+][delegate=true, context=, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=637, pathTimestamps.size=7, resourceEntryCache.size=13]]]
+
+[2025-12-03T19:07:28.228223-07:00] [GF 7.0.24] [SEVERE] [AS-WEB-UTIL-00016] [org.glassfish.web.loader.ReferenceCleaner] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 1000] [[
+  The web application [] created a ThreadLocal with key of [class java.lang.ThreadLocal (toString: java.lang.ThreadLocal@269b1272)] and a value of [class org.glassfish.admingui.theme.AdminguiThemeContext (toString: org.glassfish.admingui.theme.AdminguiThemeContext@4dc8c2f)] but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.]]
+
+[2025-12-03T19:07:28.230375-07:00] [GF 7.0.24] [SEVERE] [AS-WEB-UTIL-00016] [org.glassfish.web.loader.ReferenceCleaner] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 1000] [[
+  The web application [] created a ThreadLocal with key of [class java.lang.ThreadLocal (toString: java.lang.ThreadLocal@269b1272)] and a value of [class org.glassfish.admingui.theme.AdminguiThemeContext (toString: org.glassfish.admingui.theme.AdminguiThemeContext@4dc8c2f)] but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.]]
+
+[2025-12-03T19:07:28.230375-07:00] [GF 7.0.24] [SEVERE] [AS-WEB-UTIL-00016] [org.glassfish.web.loader.ReferenceCleaner] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 1000] [[
+  The web application [] created a ThreadLocal with key of [class java.lang.ThreadLocal (toString: java.lang.ThreadLocal@269b1272)] and a value of [class org.glassfish.admingui.theme.AdminguiThemeContext (toString: org.glassfish.admingui.theme.AdminguiThemeContext@4dc8c2f)] but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.]]
+
+[2025-12-03T19:07:28.231375-07:00] [GF 7.0.24] [SEVERE] [AS-WEB-UTIL-00016] [org.glassfish.web.loader.ReferenceCleaner] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 1000] [[
+  The web application [] created a ThreadLocal with key of [class java.lang.ThreadLocal (toString: java.lang.ThreadLocal@269b1272)] and a value of [class org.glassfish.admingui.theme.AdminguiThemeContext (toString: org.glassfish.admingui.theme.AdminguiThemeContext@4dc8c2f)] but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.]]
+
+[2025-12-03T19:07:28.231375-07:00] [GF 7.0.24] [SEVERE] [AS-WEB-UTIL-00016] [org.glassfish.web.loader.ReferenceCleaner] [tid: _ThreadID=284 _ThreadName=RunLevelControllerThread-1764814048094] [levelValue: 1000] [[
+  The web application [] created a ThreadLocal with key of [class java.lang.ThreadLocal (toString: java.lang.ThreadLocal@269b1272)] and a value of [class org.glassfish.admingui.theme.AdminguiThemeContext (toString: org.glassfish.admingui.theme.AdminguiThemeContext@4dc8c2f)] but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.]]
+
+[2025-12-03T19:07:28.315212-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=287 _ThreadName=RunLevelControllerThread-1764814048096] [levelValue: 800] [[
+  JdbcRuntimeExtension,  getAllSystemRAResourcesAndPools = [GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource(pool-name=__TimerPool,object-type=system-all,jndi-name=jdbc/__TimerPool), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource(pool-name=DerbyPool,object-type=system-all-req,jndi-name=jdbc/__default), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool(datasource-classname=org.apache.derby.jdbc.EmbeddedXADataSource,name=__TimerPool,res-type=javax.sql.XADataSource), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool(is-isolation-level-guaranteed=false,datasource-classname=org.apache.derby.jdbc.ClientDataSource,name=DerbyPool,res-type=javax.sql.DataSource), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool(datasource-classname=org.apache.derby.jdbc.ClientDataSource,name=SamplePool,res-type=javax.sql.DataSource), GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource(pool-name=SamplePool,jndi-name=jdbc/sample)]]]
+
+[2025-12-03T19:07:28.358261-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00013] [jakarta.enterprise.system.core] [tid: _ThreadID=281 _ThreadName=Thread-41] [levelValue: 800] [[
+  Shutdown procedure finished]]
+
+[2025-12-03T19:07:28.361260-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.logging.stdout] [tid: _ThreadID=28 _ThreadName=GlassFish Shutdown Hook] [levelValue: 800] [[
+  Completed shutdown of GlassFish runtime]]
+
+[2025-12-04T01:02:43.831641-07:00] [GF 7.0.24] [INFO] [] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764835363763] [levelValue: 800] [[
+  Using property file: D:\Servers\glassfish-7.0.25\glassfish7\glassfish\domains\domain1\config\logging.properties]]
+
+[2025-12-04T01:02:43.875235-07:00] [GF 7.0.24] [INFO] [NCLS-LOGGING-00009] [com.sun.enterprise.server.logging.LogManagerService] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764835363763] [levelValue: 800] [[
+  Running GlassFish Version: Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2)]]
+
+[2025-12-04T01:02:44.076996-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.ha.store.spi.BackingStoreFactoryRegistry] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764835363763] [levelValue: 800] [[
+  Registered org.glassfish.ha.store.adapter.cache.ShoalBackingStoreProxy for persistence-type = replicated in BackingStoreFactoryRegistry]]
+
+[2025-12-04T01:02:44.171449-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764835363761] [levelValue: 800] [[
+  Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-04T01:02:44.172452-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764835363761] [levelValue: 800] [[
+  Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2025-12-04T01:02:44.185720-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01115] [jakarta.enterprise.system.core.security] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764835363761] [levelValue: 800] [[
+  Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.]]
+
+[2025-12-04T01:02:44.232454-07:00] [GF 7.0.24] [INFO] [SEC-SVCS-00100] [jakarta.enterprise.security.services] [tid: _ThreadID=57 _ThreadName=RunLevelControllerThread-1764835363761] [levelValue: 800] [[
+  Authorization Service has successfully initialized.]]
+
+[2025-12-04T01:02:44.418437-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 65 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-04T01:02:44.460467-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-04T01:02:44.471151-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=60 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:4848]]]
+
+[2025-12-04T01:02:44.511752-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764835363763] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 2 ms - bound to [/0.0.0.0:3700]]]
+
+[2025-12-04T01:02:45.896859-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01002] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Java security manager is disabled.]]
+
+[2025-12-04T01:02:45.896859-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01010] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Entering Security Startup Service.]]
+
+[2025-12-04T01:02:45.901398-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01143] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Loading policy provider org.glassfish.exousia.modules.locked.SimplePolicyProvider.]]
+
+[2025-12-04T01:02:45.935059-07:00] [GF 7.0.24] [INFO] [NCLS-SECURITY-01011] [jakarta.enterprise.system.core.security] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Security Service(s) started successfully.]]
+
+[2025-12-04T01:02:45.946191-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=108 _ThreadName=pool-8-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-04T01:02:45.956655-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=108 _ThreadName=pool-8-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 3 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-04T01:02:46.143051-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-04T01:02:46.145785-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-04T01:02:46.147237-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Created HTTP listener admin-listener on host/port 0.0.0.0:4848]]
+
+[2025-12-04T01:02:46.171319-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Created virtual server server]]
+
+[2025-12-04T01:02:46.173318-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00200] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Created virtual server __asadmin]]
+
+[2025-12-04T01:02:46.425753-07:00] [GF 7.0.24] [INFO] [AS-WEB-CORE-00306] [jakarta.enterprise.web.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Setting JAAS app name glassfish-web]]
+
+[2025-12-04T01:02:46.425753-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00201] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Virtual server server loaded default web module ]]
+
+[2025-12-04T01:02:47.202144-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@36c4a854[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp//
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=45, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-04T01:02:47.242967-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Version] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  WELD-000900: 5.1.5 (Final)]]
+
+[2025-12-04T01:02:47.425525-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-04T01:02:47.753554-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-04T01:02:49.611801-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-04T01:02:49.627844-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-04T01:02:49.629844-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=59 _ThreadName=RunLevelControllerThread-1764835363778] [levelValue: 800] [[
+  Loading application profeco-webapp done in 5,389 ms]]
+
+[2025-12-04T01:02:49.630843-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00017] [jakarta.enterprise.system.core] [tid: _ThreadID=3 _ThreadName=main] [levelValue: 800] [[
+  Eclipse GlassFish 7.0.24 (commit: d3628381663c3e208afb38977982f93e83e885f2) startup time: Felix (11,789 ms), startup services (5,877 ms), total (17,666 ms)]]
+
+[2025-12-04T01:02:49.721555-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=58 _ThreadName=RunLevelControllerThread-1764835363763] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:7676]]]
+
+[2025-12-04T01:02:50.043625-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=107 _ThreadName=pool-7-thread-1] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2025-12-04T01:02:50.056028-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=107 _ThreadName=pool-7-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 7 ms - bound to [/0.0.0.0:8181]]]
+
+[2025-12-04T01:02:50.125711-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00198] [jakarta.enterprise.web] [tid: _ThreadID=107 _ThreadName=pool-7-thread-1] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2025-12-04T01:02:50.135864-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00087] [jakarta.enterprise.system.core] [tid: _ThreadID=107 _ThreadName=pool-7-thread-1] [levelValue: 800] [[
+  Grizzly Framework 4.0.2 started in: 4 ms - bound to [/0.0.0.0:8080]]]
+
+[2025-12-04T01:02:50.656315-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@4d9d1ee4[name=__admingui], urls=[
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/classes/
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-commandrecorder-plugin-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-7.0.24.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/__admingui//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-suntheme-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/dojo-ajax-nodemo-1.12.4.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/woodstock-webui-jsf-6.0.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/prototype-1.7.3.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/lib/install/applications/__admingui/WEB-INF/extra/commons-io-2.18.0.jar
+][delegate=true, context=__admingui, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=0, pathTimestamps.size=2, resourceEntryCache.size=0]]]
+
+[2025-12-04T01:02:50.766997-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=__admingui]]]
+
+[2025-12-04T01:02:50.846406-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-04T01:02:50.878408-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-04T01:02:50.881407-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-04T01:02:51.672624-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '']]
+
+[2025-12-04T01:02:51.729244-07:00] [GF 7.0.24] [INFO] [faces.config.listener.version] [jakarta.enterprise.resource.webcontainer.faces.config] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  Inicializando Mojarra 4.0.11 para el contexto '']]
+
+[2025-12-04T01:02:52.752443-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  Loading application [__admingui] at [/]]]
+
+[2025-12-04T01:02:52.753731-07:00] [GF 7.0.24] [INFO] [NCLS-CORE-00022] [jakarta.enterprise.system.core] [tid: _ThreadID=160 _ThreadName=Thread-21] [levelValue: 800] [[
+  Loading application __admingui done in 3,119 ms]]
+
+[2025-12-04T01:02:54.953598-07:00] [GF 7.0.24] [INFO] [NCLS-JMX-00005] [jakarta.enterprise.system.jmx] [tid: _ThreadID=166 _ThreadName=Thread-26] [levelValue: 800] [[
+  JMXStartupService has started JMXConnector on JMXService URL service:jmx:rmi://LAPTOP-CLGDCK0A:8686/jndi/rmi://LAPTOP-CLGDCK0A:8686/jmxrmi]]
+
+[2025-12-04T01:02:57.783174-07:00] [GF 7.0.24] [WARNING] [] [com.sun.web.security.RealmAdapter] [tid: _ThreadID=84 _ThreadName=admin-listener(1)] [levelValue: 900] [[
+  Context path from ServletContext:  differs from path from bundle: /]]
+
+[2025-12-04T01:02:59.503077-07:00] [GF 7.0.24] [SEVERE] [] [jakarta.enterprise.admin.rest] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 1000] [[
+  java.lang.ClassNotFoundException: org.glassfish.admin.rest.resources.generatedASM.DomainResource not found by org.glassfish.main.admin.rest-service [260]
+	at org.apache.felix.framework.BundleWiringImpl.findClassOrResourceByDelegation(BundleWiringImpl.java:1591)
+	at org.apache.felix.framework.BundleWiringImpl.access$300(BundleWiringImpl.java:79)
+	at org.apache.felix.framework.BundleWiringImpl$BundleClassLoader.loadClass(BundleWiringImpl.java:1976)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:463)
+	at java.base/java.lang.Class.forName(Class.java:454)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceClasses(RestManagementResourceProvider.java:86)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:264)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-04T01:02:59.549227-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00003] [jakarta.enterprise.admin.rest] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  An error occurred while processing the request. Please see the server logs for details.
+java.lang.IllegalArgumentException: Registered component class cannot be null.
+	at org.glassfish.jersey.model.internal.CommonConfig.checkComponentClassNotNull(CommonConfig.java:574)
+	at org.glassfish.jersey.model.internal.CommonConfig.register(CommonConfig.java:412)
+	at org.glassfish.jersey.server.ResourceConfig.register(ResourceConfig.java:405)
+	at org.glassfish.jersey.server.ResourceConfig.registerClasses(ResourceConfig.java:481)
+	at org.glassfish.jersey.server.ResourceConfig.<init>(ResourceConfig.java:347)
+	at org.glassfish.admin.rest.adapter.AbstractRestResourceProvider.getResourceConfig(AbstractRestResourceProvider.java:79)
+	at org.glassfish.admin.rest.adapter.RestManagementResourceProvider.getResourceConfig(RestManagementResourceProvider.java:70)
+	at org.glassfish.admin.rest.adapter.RestAdapter.exposeContext(RestAdapter.java:274)
+	at org.glassfish.admin.rest.adapter.RestAdapter.service(RestAdapter.java:155)
+	at org.glassfish.admin.rest.adapter.RestManagementAdapter.service(RestManagementAdapter.java:42)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:429)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:143)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:174)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:153)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:196)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:88)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:246)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:178)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:118)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:96)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:51)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:510)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:82)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:83)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:101)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:535)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:515)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+]]
+
+[2025-12-04T01:03:01.124667-07:00] [GF 7.0.24] [INFO] [NCLS-REST-00001] [jakarta.enterprise.admin.rest] [tid: _ThreadID=85 _ThreadName=admin-listener(2)] [levelValue: 800] [[
+  Listening to REST requests at context: /management/domain.]]
+
+[2025-12-04T01:03:44.914033-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=86 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  Disabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-04T01:03:44.923680-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=86 _ThreadName=admin-listener(3)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@26c02d08[name=/profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp//
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/profeco-webapp/
+][delegate=true, context=/profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=33, pathTimestamps.size=15, resourceEntryCache.size=114]]]
+
+[2025-12-04T01:03:45.923660-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.web.loader.WebappClassLoader] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  close(), this:
+org.glassfish.web.loader.WebappClassLoader@69ce91fb[name=profeco-webapp], urls=[
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/classes/
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/bootstrap-5.3.2.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-annotations-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-core-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jackson-databind-2.15.3.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.el-api-5.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar
+file:/C:/Users/Choche/Documents/VSCProjects/ProyectoDistribuidos/ProyectoDistribuidos/profeco-webapp/target/profeco-webapp/WEB-INF/lib/jquery-3.7.1.jar
+file:/D:/Servers/glassfish-7.0.25/glassfish7/glassfish/domains/domain1/generated/ejb/profeco-webapp/
+][delegate=true, context=profeco-webapp, status=RUNNING, antiJARLocking=false, securityManager=false, packageDefinitionSecurityEnabled=false, repositories=RepositoryManager[WEB-INF/classes/], notFound.size=3, pathTimestamps.size=15, resourceEntryCache.size=6]]]
+
+[2025-12-04T01:03:46.000584-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.inject.spi] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  Enabling Weld for ApplicationInfo[name=profeco-webapp]]]
+
+[2025-12-04T01:03:46.019098-07:00] [GF 7.0.24] [INFO] [] [org.jboss.weld.Event] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  WELD-000411: Observer method [BackedAnnotatedMethod] public org.glassfish.jersey.ext.cdi1x.internal.ProcessAllAnnotatedTypes.processAnnotatedType(@Observes ProcessAnnotatedType<?>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.]]
+
+[2025-12-04T01:03:46.569935-07:00] [GF 7.0.24] [INFO] [] [org.glassfish.soteria.servlet.SamRegistrationInstaller] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  Initializing Soteria 3.0.3 for context '/profeco-webapp']]
+
+[2025-12-04T01:03:46.574934-07:00] [GF 7.0.24] [INFO] [AS-WEB-GLUE-00172] [jakarta.enterprise.web] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  Loading application [profeco-webapp] at [/profeco-webapp]]]
+
+[2025-12-04T01:03:46.611900-07:00] [GF 7.0.24] [INFO] [] [jakarta.enterprise.system.core] [tid: _ThreadID=88 _ThreadName=admin-listener(5)] [levelValue: 800] [[
+  profeco-webapp was successfully deployed in 1,543 milliseconds.]]
+
