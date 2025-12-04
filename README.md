@@ -11,6 +11,7 @@ Localiza y ejecuta los archivos ejecutables (clase main) correspondientes a esto
 4.  `quejas-service`
 
 Paso 3: Desplegar el Frontend
+
 Finalmente, ejecuta el proyecto `profeco-webapp`. Esto desplegará la interfaz de usuario en el servidor GlassFish.
 
 Una vez completado el paso 3, se abrirá automáticamente una ventana en tu navegador web predeterminado mostrando la pantalla de inicio del sistema PROFECO.
