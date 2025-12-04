@@ -3,6 +3,7 @@ Guía de Inicio Rápido del Sistema PROFECO
 Paso 1: Iniciar el Servidor de Aplicaciones (GlassFish)
 
 Paso 2: Ejecutar los Microservicios
+
 Localiza y ejecuta los archivos ejecutables (clase main) correspondientes a estos cuatro proyectos. Asegúrate de iniciarlos simultáneamente:
 1.  `api-gateway`
 2.  `auth-service`
